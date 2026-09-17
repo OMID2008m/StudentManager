@@ -311,13 +311,4 @@ while True:
     else:
         print(".گزینه وارد شده معتبر نیست")
 
-
-student1 = Student("Ali", 15, "10A")
-
-student1.name = "     "
-
-print(student1.name)
-
-student1.name = "Omid"
-
-print(student1.name)
+# Git test
